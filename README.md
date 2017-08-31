@@ -1,4 +1,4 @@
-# Automation Project
+# Bug App Project
 
 *Structure for creating a Basic Java Project.*
 
@@ -8,6 +8,6 @@
 * JUnit 4.12
 * Selenium 2.53
 
-Automation Project Using Selenium.
+An application that registers bugs into the system.
 
 [George Hanna](https://github.com/georgehanna823)
